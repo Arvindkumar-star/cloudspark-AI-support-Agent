@@ -66,8 +66,4 @@ with gr.Blocks(title="CloudSpark AI Support") as demo:
             gr.Markdown("- ✅ Auto-Escalation")
 
 if __name__ == "__main__":
-    demo.launch(
-        server_name="0.0.0.0", 
-        server_port=7860,
-        theme=theme
-    )
+    demo.launch(theme=theme)
