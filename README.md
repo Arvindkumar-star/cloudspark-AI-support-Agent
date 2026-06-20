@@ -1,3 +1,14 @@
+---
+title: CloudSpark AI Support
+emoji: ⚡
+colorFrom: blue
+colorTo: slate
+sdk: gradio
+sdk_version: 6.19.0
+app_file: app.py
+pinned: false
+---
+
 # CloudSpark AI Support: Persona-Adaptive Agent
 
 ## Project Overview
@@ -5,8 +16,8 @@ CloudSpark AI Support is a state-of-the-art customer support system built using 
 
 ## Tech Stack
 - **Language:** Python 3.11+
-- **LLM:** Google Gemini 1.5 Flash
-- **Embeddings:** Google Gemini Embedding Model (`embedding-001`)
+- **LLM:** Google Gemini 2.0 Flash
+- **Embeddings:** Google Gemini Embedding 2 (`gemini-embedding-2`)
 - **Orchestration:** LangChain
 - **Vector Database:** ChromaDB
 - **UI:** Gradio
