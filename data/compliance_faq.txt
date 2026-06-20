@@ -1,0 +1,6 @@
+
+Compliance Frequently Asked Questions
+Q: Is CloudSpark HIPAA compliant?
+A: No, CloudSpark is not HIPAA compliant at this time.
+Q: Where is data stored?
+A: Primary data center is in AWS us-east-1 (Northern Virginia).

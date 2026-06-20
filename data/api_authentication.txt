@@ -1,0 +1,7 @@
+
+CloudSpark API Authentication Guide
+To authenticate with the CloudSpark API, users must include a Bearer token in the Authorization header.
+Tokens can be generated from the Developer Dashboard.
+Endpoint: https://api.cloudspark.io/v1/auth
+Error 401: Unauthorized - Occurs when the token is invalid or expired.
+Error 403: Forbidden - Occurs when the user does not have permission for the resource.

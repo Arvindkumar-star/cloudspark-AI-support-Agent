@@ -1,0 +1,5 @@
+
+Getting Started with the Dashboard
+The main dashboard provides an overview of your active services.
+Analytics are updated every 5 minutes.
+Use the 'Search' bar to find specific resources.

@@ -1,0 +1,5 @@
+
+Managing SSL Certificates
+Custom domains require an SSL certificate.
+CloudSpark provides free SSL via Let's Encrypt.
+Users can also upload custom certificates in PEM format.

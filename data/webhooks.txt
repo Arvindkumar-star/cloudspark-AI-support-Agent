@@ -1,0 +1,5 @@
+
+Working with Webhooks
+CloudSpark can send real-time notifications to your URL.
+Events supported: user.created, payment.succeeded, subscription.deleted.
+Signature verification is required to ensure authenticity.

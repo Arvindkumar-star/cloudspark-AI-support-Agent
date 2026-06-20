@@ -1,0 +1,5 @@
+
+Integrating CloudSpark with Slack
+Navigate to Settings -> Integrations -> Slack.
+Click 'Connect' and authorize the CloudSpark bot.
+Default notification channel: #cloudspark-alerts.

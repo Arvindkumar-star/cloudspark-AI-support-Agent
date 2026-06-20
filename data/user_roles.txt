@@ -1,0 +1,5 @@
+
+User Roles and Permissions
+- Admin: Full access to settings, billing, and user management.
+- Developer: Access to API keys, logs, and development tools.
+- Viewer: Read-only access to dashboards.
